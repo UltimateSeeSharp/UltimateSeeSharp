@@ -1,4 +1,11 @@
-<div align="center">
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">Hey there, I'm David 👋</p>
+<p align="left">I'm a Full-Stack Developer specialized in C# .NET & Blockchain/Web3 development.</p>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/davidraphaelschneider" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
@@ -6,23 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<h1 align="center">Hey there, I'm David 👋</h1>
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">I'm a Full-Stack Developer specialized in C# .NET & Blockchain/Web3 development.</p>
 
 ###
 
@@ -86,5 +76,4 @@
 
 ###
 
-<p align="left">"Never trust a computer you can’t throw out a window."<br>
-<span>- Steve Wozniak</span></p>
+<p align="left">"Shipping 200s since 2017."</p>
