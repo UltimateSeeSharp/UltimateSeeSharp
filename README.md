@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs5Y3ljZ3lpc2hsMjBocHBleDZicWJjcGlxdGF6bTZjdGR6b2pnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+  <img height="150" src="https://miro.medium.com/v2/resize:fit:1000/1*UpefFDOkyroIuQSv44tQ6g.gif"  />
 </div>
 
 ###
@@ -17,6 +17,10 @@
 ###
 
 <h1 align="center">Hey there, I'm David 👋</h1>
+
+###
+
+<h3 align="left">About me</h3>
 
 ###
 
@@ -93,3 +97,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
+
+<p align="left">"Never trust a computer you can’t throw out a window."<br>
+<span>- Steve Wozniak</span></p>
