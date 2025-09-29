@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UltimateSeeSharp/UltimateSeeSharp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UltimateSeeSharp/UltimateSeeSharp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UltimateSeeSharp/UltimateSeeSharp/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+ <a class="link" href="https://github.com/codeflowjs/codeflowjs/blame/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
